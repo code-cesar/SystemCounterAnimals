@@ -1,3 +1,6 @@
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/code-cesar/SystemCounterAnimals)
+![GitHub repo size](https://img.shields.io/github/repo-size/code-cesar/SystemCounterAnimals)
+
 # Описание
 > Программа считает кол-во животных совпадающих по определенным правилам
 
